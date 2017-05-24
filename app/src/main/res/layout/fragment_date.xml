@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/darker_gray"
+
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="CUMPLEAÑOS"
+        android:textSize="16sp"
+        android:textAllCaps="true"
+        android:padding="16dp"
+        android:textAlignment="center"
+        android:background="@android:color/black"
+        android:textStyle="bold"
+        />
+
+    <DatePicker android:layout_width="400dp"
+                android:layout_height="200dp"
+                android:id="@+id/calendar_2"
+                android:calendarViewShown="false"
+                android:layout_marginLeft="-10dp"
+                android:endYear="2016"
+                android:spinnersShown="true"
+                android:datePickerMode="spinner"
+                android:calendarTextColor="@android:color/white"
+                android:background="@android:color/darker_gray"
+
+        />
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>

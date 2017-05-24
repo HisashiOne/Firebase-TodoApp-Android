@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/logOutBTN_1"
+        android:title="logOut"
+        app:showAsAction="always"
+        android:icon="@drawable/logouticn"
+        />
+
+    <item
+        android:id="@+id/refresh"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/refreshicn"
+
+        />
+</menu>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.hisashione.todoapp.Activities.HomeActivity"
+    android:background="@drawable/main_background"
+    >
+
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+              android:text="TodoApp"
+              android:textStyle="bold"
+              android:textSize="16sp"
+              android:layout_alignParentTop="true"
+              android:layout_centerHorizontal="true"
+              android:id="@+id/homeText"
+              android:textColor="@android:color/white"
+
+        />
+
+
+
+    <CheckBox android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Notificaciones"
+              android:textColor="@android:color/white"
+              android:textStyle="bold"
+              android:layout_below="@+id/registerNameTxt"
+              android:layout_marginLeft="20dp"
+              android:id="@+id/checkBoxNotif"
+
+        />
+
+
+
+
+    <EditText android:layout_width="match_parent"
+              android:layout_height="35dp"
+              android:layout_marginLeft="20dp"
+              android:layout_marginRight="20dp"
+              android:hint="Nombre Completo"
+              android:layout_below="@+id/emailUserText"
+              android:layout_marginTop="70dp"
+              android:id="@+id/registerNameTxt"
+              android:textColor="@android:color/white"
+              android:gravity="center"
+              android:background="@drawable/transparent_back"
+
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/emailUserText"
+        android:hint="Usuario"
+        android:id="@+id/registerAdressTxt"
+        android:textColor="@android:color/white"
+        android:background="@drawable/transparent_back"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"
+        android:text="Logout"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:id="@+id/logoutBTN"
+        android:layout_below="@+id/saveAdressBTN"
+        android:layout_marginLeft="20dp"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/blue_btn"
+        android:text="Guardar Datos"
+        android:textColor="@android:color/white"
+        android:layout_below="@id/registerAdressTxt"
+        android:layout_marginRight="22dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="22dp"
+        android:id="@+id/saveAdressBTN"
+        android:textStyle="bold"
+
+        />
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:layout_below="@+id/saveAdressBTN"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="LOAD"
+        android:textColor="@android:color/white"
+        android:id="@+id/loadBTN"
+        android:textStyle="bold"
+        android:visibility="gone"
+
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:layout_marginTop="23dp"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:id="@+id/emailUserText"
+        android:layout_below="@+id/homeText"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/white"
+        />
+
+    <Button android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/blue_btn"
+            android:text="LISTAS"
+            android:textColor="@android:color/white"
+            android:id="@+id/listBTN"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="22dp"
+            android:layout_below="@+id/saveAdressBTN"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+           />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/blue_btn"
+        android:text="---- Force Crash ----"
+        android:textColor="@android:color/holo_red_light"
+        android:textStyle="bold"
+        android:id="@+id/crashBTN"
+        android:layout_marginLeft="22dp"
+        android:layout_marginRight="22dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+
+</RelativeLayout>

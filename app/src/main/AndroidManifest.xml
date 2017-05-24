@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.hisashione.todoapp">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bitmap"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:label="Registro"
+            android:icon="@drawable/bitmap"
+            >
+        </activity>
+        <activity
+            android:name=".Activities.HomeActivity"
+            android:screenOrientation="portrait"
+            android:label="Mis Datos"
+            >
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:screenOrientation="portrait"
+            android:label="TodoApp"
+            android:icon="@drawable/bitmap"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activities.PasswordRecover"
+            android:screenOrientation="portrait"
+                  android:label="Recuperar Contraseña"
+            >
+        </activity>
+        <activity android:name=".Activities.ListActivity"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+
+        <service android:name=".Models.MyFirebaseIdService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+
+        </service>
+
+        <service
+            android:name=".Models.MyFirebaseMesangingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+
+    </application>
+
+</manifest>

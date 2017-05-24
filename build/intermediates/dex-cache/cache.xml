@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c54db054bc387c270e594ddd862dedbc1ed370cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_1b7371915e2f8d42321b5f4d4aa50dd48de8623d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_a4cd418419534638f9ee59d370ca8932c70295d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_042c348391de56d3d58272472a51e3378524fff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.1_8059c9888d09c2351e4ed2b19d63d361a6ae5aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_e109d8d5f797174214bb52d272b0c245d983135d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_febae6800983c53530f1df05f10757844e0af98d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f0852317d06b419c37a5a18882ebf7031421ea5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_a40ad5c0ebc0bae33c01e9d78e86da19868bf8e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_3aa21aa3bc6bbf5fade17637e6149bd96834b399.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.1_d8e309951bf7387454bb6c3d1f94d64e26c665a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_5b69b5b4c3ca7153953b91962e5a806fb33f0812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.1_d6a712c7c9c069aaaa5afad767aeef12a56f82a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d2286821a0df4a78c2fd3e90dd4aa630cca115ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_f98fb268dd86b7963450e49733b4a268556c5756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_2647bdc7c6fbff99d676287dc39ec6c3b100e645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_f39f4e25ad32a0c5cef3e658067c7ded0b2dafc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_f86749fbebd454f12c74e9185a6f3a9ea004b965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3d88812cd0ddfdd3566b8bbe2a5a390859d6801f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.1_49a16c7a5aea799f1c087adeb5b66e119c21582b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_235aec76efbfa58da0175784d79f8a26db2ecff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_db6fd677503ed139ef9fab8df59af2ad49f97388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_ef92ee7ddc3529786520eba59d0db25da8453c2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e1ab310988edda54f2ae45893a43ee23289d6190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_119eaf00344ef2fac425f470ea1f1707df2b7b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_63cd9906faf3808820b6d13987fa43bef874dab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_7e705520794215ba124ec38fc4a515710e7577de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_3bc786a456c14674f7c32cb9202f7dc3ea9beea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_9529b1dad7c5f401a2483b3ee9832fce6228f312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_3b2015ca352ac83e35d01ed712cc81ae2ff0595f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.0.1_973abbcb6df7ea2c000302b03cf6e4fe48c2038f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_0427bf404c44c2822153735d37de430f12d1beb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HisashiOne/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/HisashiOne/Desktop/TodoApp/todoApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_ecc15b9ce541b7651bbb1e8878da294726da594f.jar" />
+    </item>
+
+</items>
